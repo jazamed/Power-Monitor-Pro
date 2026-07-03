@@ -1,4 +1,9 @@
-Power Monitor Pro v2.1
+Power Monitor Pro 
+
+<img width="1206" height="1012" alt="Main Window" src="https://github.com/user-attachments/assets/77b19ca6-8ea4-4f84-94c1-711c7ba699dc" />
+
+<img width="717" height="385" alt="Mini Window" src="https://github.com/user-attachments/assets/96ddb18e-f462-48b3-81cc-edca3cfb6291" />
+
 
 About the Project
 
