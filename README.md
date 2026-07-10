@@ -108,6 +108,8 @@ Integrated OLED display
 Up to approximately 17 Hz update rate
 Compatible with existing Lab Meter software
 Designed for future Wi-Fi support
+
+
 Project Goals
 
 Power Monitor Pro aims to become a universal monitoring application for:
@@ -138,7 +140,7 @@ PyQtGraph
 PySerial
 Current Status
 
-Power Monitor Pro v2.1 is considered stable for everyday use.
+Power Monitor Pro v2.2 is considered stable for everyday use.
 
 Development continues with a focus on expanding hardware support while maintaining compatibility with existing devices.
 
